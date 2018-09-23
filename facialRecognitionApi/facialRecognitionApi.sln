@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "facialRecognitionApi", "facialRecognitionApi\facialRecognitionApi.csproj", "{BE2D1374-E7FE-4F9D-AC69-4C3997A509AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE2D1374-E7FE-4F9D-AC69-4C3997A509AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE2D1374-E7FE-4F9D-AC69-4C3997A509AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE2D1374-E7FE-4F9D-AC69-4C3997A509AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE2D1374-E7FE-4F9D-AC69-4C3997A509AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0ABFC00-64CE-4B42-B981-13547F1E71A5}
+	EndGlobalSection
+EndGlobal
